@@ -1,0 +1,10 @@
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\bin\Debug\heeehhh.exe.config
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\bin\Debug\heeehhh.exe
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\bin\Debug\heeehhh.pdb
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\obj\Debug\heeehhh.csproj.AssemblyReference.cache
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\obj\Debug\heeehhh.Form1.resources
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\obj\Debug\heeehhh.Properties.Resources.resources
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\obj\Debug\heeehhh.csproj.GenerateResource.cache
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\obj\Debug\heeehhh.csproj.CoreCompileInputs.cache
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\obj\Debug\heeehhh.exe
+C:\Users\ujwal\source\repos\heeehhh\heeehhh\obj\Debug\heeehhh.pdb
